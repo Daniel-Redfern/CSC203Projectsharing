@@ -1,0 +1,2011 @@
+obstacle obstacle_0_0 0 0
+obstacle obstacle_1_0 1 0
+obstacle obstacle_2_0 2 0
+obstacle obstacle_3_0 3 0
+obstacle obstacle_4_0 4 0
+obstacle obstacle_5_0 5 0
+obstacle obstacle_6_0 6 0
+obstacle obstacle_7_0 7 0
+obstacle obstacle_8_0 8 0
+obstacle obstacle_9_0 9 0
+obstacle obstacle_10_0 10 0
+obstacle obstacle_11_0 11 0
+obstacle obstacle_12_0 12 0
+obstacle obstacle_13_0 13 0
+obstacle obstacle_14_0 14 0
+obstacle obstacle_15_0 15 0
+obstacle obstacle_16_0 16 0
+obstacle obstacle_17_0 17 0
+obstacle obstacle_18_0 18 0
+obstacle obstacle_19_0 19 0
+obstacle obstacle_20_0 20 0
+obstacle obstacle_21_0 21 0
+obstacle obstacle_22_0 22 0
+obstacle obstacle_23_0 23 0
+obstacle obstacle_24_0 24 0
+obstacle obstacle_25_0 25 0
+obstacle obstacle_26_0 26 0
+obstacle obstacle_27_0 27 0
+obstacle obstacle_0_30 0 30
+obstacle obstacle_1_30 1 30
+obstacle obstacle_2_30 2 30
+obstacle obstacle_3_30 3 30
+obstacle obstacle_4_30 4 30
+obstacle obstacle_5_30 5 30
+obstacle obstacle_6_30 6 30
+obstacle obstacle_7_30 7 30
+obstacle obstacle_8_30 8 30
+obstacle obstacle_9_30 9 30
+obstacle obstacle_10_30 10 30
+obstacle obstacle_11_30 11 30
+obstacle obstacle_12_30 12 30
+obstacle obstacle_13_30 13 30
+obstacle obstacle_14_30 14 30
+obstacle obstacle_15_30 15 30
+obstacle obstacle_16_30 16 30
+obstacle obstacle_17_30 17 30
+obstacle obstacle_18_30 18 30
+obstacle obstacle_19_30 19 30
+obstacle obstacle_20_30 20 30
+obstacle obstacle_21_30 21 30
+obstacle obstacle_22_30 22 30
+obstacle obstacle_23_30 23 30
+obstacle obstacle_24_30 24 30
+obstacle obstacle_25_30 25 30
+obstacle obstacle_26_30 26 30
+obstacle obstacle_27_30 27 30
+obstacle obstacle_0_1 0 1
+obstacle obstacle_0_2 0 2
+obstacle obstacle_0_3 0 3
+obstacle obstacle_0_4 0 4
+obstacle obstacle_0_5 0 5
+obstacle obstacle_0_6 0 6
+obstacle obstacle_0_7 0 7
+obstacle obstacle_0_8 0 8
+obstacle obstacle_0_9 0 9
+obstacle obstacle_0_10 0 10
+obstacle obstacle_0_11 0 11
+obstacle obstacle_0_12 0 12
+obstacle obstacle_0_13 0 13
+obstacle obstacle_0_14 0 14
+obstacle obstacle_0_15 0 15
+obstacle obstacle_0_16 0 16
+obstacle obstacle_0_17 0 17
+obstacle obstacle_0_18 0 18
+obstacle obstacle_0_19 0 19
+obstacle obstacle_0_20 0 20
+obstacle obstacle_0_21 0 21
+obstacle obstacle_0_22 0 22
+obstacle obstacle_0_23 0 23
+obstacle obstacle_0_24 0 24
+obstacle obstacle_0_25 0 25
+obstacle obstacle_0_26 0 26
+obstacle obstacle_0_27 0 27
+obstacle obstacle_0_28 0 28
+obstacle obstacle_0_29 0 29
+obstacle obstacle_27_1 27 1
+obstacle obstacle_27_2 27 2
+obstacle obstacle_27_3 27 3
+obstacle obstacle_27_4 27 4
+obstacle obstacle_27_5 27 5
+obstacle obstacle_27_6 27 6
+obstacle obstacle_27_7 27 7
+obstacle obstacle_27_8 27 8
+obstacle obstacle_27_9 27 9
+obstacle obstacle_27_10 27 10
+obstacle obstacle_27_11 27 11
+obstacle obstacle_27_12 27 12
+obstacle obstacle_27_13 27 13
+obstacle obstacle_27_14 27 14
+obstacle obstacle_27_15 27 15
+obstacle obstacle_27_16 27 16
+obstacle obstacle_27_17 27 17
+obstacle obstacle_27_18 27 18
+obstacle obstacle_27_19 27 19
+obstacle obstacle_27_20 27 20
+obstacle obstacle_27_21 27 21
+obstacle obstacle_27_22 27 22
+obstacle obstacle_27_23 27 23
+obstacle obstacle_27_24 27 24
+obstacle obstacle_27_25 27 25
+obstacle obstacle_27_26 27 26
+obstacle obstacle_27_27 27 27
+obstacle obstacle_27_28 27 28
+obstacle obstacle_27_29 27 29
+fish fish_1_29 1 29 1000000000
+fish fish_2_29 2 29 1000000000
+fish fish_3_29 3 29 1000000000
+fish fish_4_29 4 29 1000000000
+fish fish_5_29 5 29 1000000000
+fish fish_6_29 6 29 1000000000
+fish fish_7_29 7 29 1000000000
+fish fish_8_29 8 29 1000000000
+fish fish_9_29 9 29 1000000000
+fish fish_10_29 10 29 1000000000
+fish fish_11_29 11 29 1000000000
+fish fish_12_29 12 29 1000000000
+fish fish_13_29 13 29 1000000000
+fish fish_14_29 14 29 1000000000
+fish fish_15_29 15 29 1000000000
+fish fish_16_29 16 29 1000000000
+fish fish_17_29 17 29 1000000000
+fish fish_18_29 18 29 1000000000
+fish fish_19_29 19 29 1000000000
+fish fish_20_29 20 29 1000000000
+fish fish_21_29 21 29 1000000000
+fish fish_22_29 22 29 1000000000
+fish fish_23_29 23 29 1000000000
+fish fish_24_29 24 29 1000000000
+fish fish_25_29 25 29 1000000000
+fish fish_1_28 1 28 1000000000
+obstacle obstacle_2_28 2 28
+obstacle obstacle_3_28 3 28
+obstacle obstacle_4_28 4 28
+obstacle obstacle_5_28 5 28
+obstacle obstacle_6_28 6 28
+obstacle obstacle_7_28 7 28
+obstacle obstacle_8_28 8 28
+obstacle obstacle_9_28 9 28
+obstacle obstacle_10_28 10 28
+obstacle obstacle_11_28 11 28
+fish fish_12_28 12 28 1000000000
+obstacle obstacle_13_28 13 28
+obstacle obstacle_14_28 14 28
+fish fish_15_28 15 28 1000000000
+obstacle obstacle_16_28 16 28
+obstacle obstacle_17_28 17 28
+obstacle obstacle_18_28 18 28
+obstacle obstacle_19_28 19 28
+obstacle obstacle_20_28 20 28
+obstacle obstacle_21_28 21 28
+obstacle obstacle_22_28 22 28
+obstacle obstacle_23_28 23 28
+obstacle obstacle_24_28 24 28
+obstacle obstacle_25_28 25 28
+fish fish_26_28 26 28 1000000000
+fish fish_26_29 26 29 1000000000
+obstacle obstacle_2_27 2 27
+obstacle obstacle_3_27 3 27
+obstacle obstacle_4_27 4 27
+obstacle obstacle_5_27 5 27
+obstacle obstacle_6_27 6 27
+obstacle obstacle_7_27 7 27
+obstacle obstacle_8_27 8 27
+obstacle obstacle_9_27 9 27
+obstacle obstacle_10_27 10 27
+obstacle obstacle_11_27 11 27
+fish fish_12_27 12 27 1000000000
+obstacle obstacle_13_27 13 27
+obstacle obstacle_14_27 14 27
+fish fish_15_27 15 27 1000000000
+obstacle obstacle_16_27 16 27
+obstacle obstacle_17_27 17 27
+obstacle obstacle_18_27 18 27
+obstacle obstacle_19_27 19 27
+obstacle obstacle_20_27 20 27
+obstacle obstacle_21_27 21 27
+obstacle obstacle_22_27 22 27
+obstacle obstacle_23_27 23 27
+obstacle obstacle_24_27 24 27
+obstacle obstacle_25_27 25 27
+fish fish_26_27 26 27 1000000000
+fish fish_1_27 1 27 1000000000
+fish fish_2_26 2 26 1000000000
+fish fish_3_26 3 26 1000000000
+fish fish_4_26 4 26 1000000000
+fish fish_5_26 5 26 1000000000
+fish fish_6_26 6 26 1000000000
+obstacle obstacle_7_26 7 26
+obstacle obstacle_8_26 8 26
+fish fish_9_26 9 26 1000000000
+fish fish_10_26 10 26 1000000000
+fish fish_11_26 11 26 1000000000
+fish fish_12_26 12 26 1000000000
+obstacle obstacle_13_26 13 26
+obstacle obstacle_14_26 14 26
+fish fish_15_26 15 26 1000000000
+fish fish_16_26 16 26 1000000000
+fish fish_17_26 17 26 1000000000
+fish fish_18_26 18 26 1000000000
+obstacle obstacle_19_26 19 26
+obstacle obstacle_20_26 20 26
+fish fish_21_26 21 26 1000000000
+fish fish_22_26 22 26 1000000000
+fish fish_23_26 23 26 1000000000
+fish fish_24_26 24 26 1000000000
+fish fish_25_26 25 26 1000000000
+fish fish_26_26 26 26 1000000000
+fish fish_1_26 1 26 1000000000
+obstacle obstacle_1_25 1 25
+obstacle obstacle_2_25 2 25
+fish fish_3_25 3 25 1000000000
+obstacle obstacle_4_25 4 25
+obstacle obstacle_5_25 5 25
+fish fish_6_25 6 25 1000000000
+obstacle obstacle_7_25 7 25
+obstacle obstacle_8_25 8 25
+fish fish_9_25 9 25 1000000000
+obstacle obstacle_10_25 10 25
+obstacle obstacle_11_25 11 25
+obstacle obstacle_12_25 12 25
+obstacle obstacle_13_25 13 25
+obstacle obstacle_14_25 14 25
+obstacle obstacle_15_25 15 25
+obstacle obstacle_16_25 16 25
+obstacle obstacle_17_25 17 25
+fish fish_18_25 18 25 1000000000
+obstacle obstacle_19_25 19 25
+obstacle obstacle_20_25 20 25
+fish fish_21_25 21 25 1000000000
+obstacle obstacle_22_25 22 25
+obstacle obstacle_23_25 23 25
+fish fish_24_25 24 25 1000000000
+obstacle obstacle_25_25 25 25
+obstacle obstacle_26_25 26 25
+obstacle obstacle_1_24 1 24
+obstacle obstacle_2_24 2 24
+fish fish_3_24 3 24 1000000000
+obstacle obstacle_4_24 4 24
+obstacle obstacle_5_24 5 24
+fish fish_6_24 6 24 1000000000
+obstacle obstacle_7_24 7 24
+obstacle obstacle_8_24 8 24
+fish fish_9_24 9 24 1000000000
+obstacle obstacle_10_24 10 24
+obstacle obstacle_11_24 11 24
+obstacle obstacle_12_24 12 24
+obstacle obstacle_13_24 13 24
+obstacle obstacle_14_24 14 24
+obstacle obstacle_15_24 15 24
+obstacle obstacle_16_24 16 24
+obstacle obstacle_17_24 17 24
+fish fish_18_24 18 24 1000000000
+obstacle obstacle_19_24 19 24
+obstacle obstacle_20_24 20 24
+fish fish_21_24 21 24 1000000000
+obstacle obstacle_22_24 22 24
+obstacle obstacle_23_24 23 24
+fish fish_24_24 24 24 1000000000
+obstacle obstacle_25_24 25 24
+obstacle obstacle_26_24 26 24
+fish fish_1_23 1 23 1000000000
+fish fish_2_23 2 23 1000000000
+fish fish_3_23 3 23 1000000000
+fish fish_4_23 4 23 1000000000
+fish fish_5_23 5 23 1000000000
+fish fish_6_23 6 23 1000000000
+obstacle obstacle_7_23 7 23
+obstacle obstacle_8_23 8 23
+fish fish_9_23 9 23 1000000000
+fish fish_10_23 10 23 1000000000
+fish fish_11_23 11 23 1000000000
+fish fish_12_23 12 23 1000000000
+fish fish_15_23 15 23 1000000000
+fish fish_16_23 16 23 1000000000
+fish fish_17_23 17 23 1000000000
+fish fish_18_23 18 23 1000000000
+obstacle obstacle_19_23 19 23
+obstacle obstacle_20_23 20 23
+fish fish_21_23 21 23 1000000000
+fish fish_22_23 22 23 1000000000
+fish fish_23_23 23 23 1000000000
+fish fish_24_23 24 23 1000000000
+fish fish_25_23 25 23 1000000000
+fish fish_26_23 26 23 1000000000
+fish fish_1_22 1 22 1000000000
+obstacle obstacle_2_22 2 22
+obstacle obstacle_3_22 3 22
+obstacle obstacle_4_22 4 22
+obstacle obstacle_5_22 5 22
+fish fish_6_22 6 22 1000000000
+obstacle obstacle_7_22 7 22
+obstacle obstacle_8_22 8 22
+obstacle obstacle_9_22 9 22
+obstacle obstacle_10_22 10 22
+obstacle obstacle_11_22 11 22
+fish fish_12_22 12 22 1000000000
+obstacle obstacle_13_22 13 22
+obstacle obstacle_14_22 14 22
+fish fish_15_22 15 22 1000000000
+obstacle obstacle_16_22 16 22
+obstacle obstacle_17_22 17 22
+obstacle obstacle_18_22 18 22
+obstacle obstacle_19_22 19 22
+obstacle obstacle_20_22 20 22
+fish fish_21_22 21 22 1000000000
+obstacle obstacle_22_22 22 22
+obstacle obstacle_23_22 23 22
+obstacle obstacle_24_22 24 22
+obstacle obstacle_25_22 25 22
+fish fish_26_22 26 22 1000000000
+fish fish_1_21 1 21 1000000000
+obstacle obstacle_2_21 2 21
+obstacle obstacle_3_21 3 21
+obstacle obstacle_4_21 4 21
+obstacle obstacle_5_21 5 21
+fish fish_6_21 6 21 1000000000
+obstacle obstacle_7_21 7 21
+obstacle obstacle_8_21 8 21
+obstacle obstacle_9_21 9 21
+obstacle obstacle_10_21 10 21
+obstacle obstacle_11_21 11 21
+fish fish_12_21 12 21 1000000000
+obstacle obstacle_13_21 13 21
+obstacle obstacle_14_21 14 21
+fish fish_15_21 15 21 1000000000
+obstacle obstacle_16_21 16 21
+obstacle obstacle_17_21 17 21
+obstacle obstacle_18_21 18 21
+obstacle obstacle_19_21 19 21
+obstacle obstacle_20_21 20 21
+fish fish_21_21 21 21 1000000000
+obstacle obstacle_22_21 22 21
+obstacle obstacle_23_21 23 21
+obstacle obstacle_24_21 24 21
+obstacle obstacle_25_21 25 21
+fish fish_26_21 26 21 1000000000
+fish fish_1_20 1 20 1000000000
+fish fish_2_20 2 20 1000000000
+fish fish_3_20 3 20 1000000000
+fish fish_4_20 4 20 1000000000
+fish fish_5_20 5 20 1000000000
+fish fish_6_20 6 20 1000000000
+fish fish_7_20 7 20 1000000000
+fish fish_8_20 8 20 1000000000
+fish fish_9_20 9 20 1000000000
+fish fish_10_20 10 20 1000000000
+fish fish_11_20 11 20 1000000000
+fish fish_12_20 12 20 1000000000
+obstacle obstacle_13_20 13 20
+obstacle obstacle_14_20 14 20
+fish fish_15_20 15 20 1000000000
+fish fish_16_20 16 20 1000000000
+fish fish_17_20 17 20 1000000000
+fish fish_18_20 18 20 1000000000
+fish fish_19_20 19 20 1000000000
+fish fish_20_20 20 20 1000000000
+fish fish_21_20 21 20 1000000000
+fish fish_22_20 22 20 1000000000
+fish fish_23_20 23 20 1000000000
+fish fish_24_20 24 20 1000000000
+fish fish_25_20 25 20 1000000000
+fish fish_26_20 26 20 1000000000
+obstacle obstacle_1_19 1 19
+obstacle obstacle_2_19 2 19
+obstacle obstacle_3_19 3 19
+obstacle obstacle_4_19 4 19
+obstacle obstacle_5_19 5 19
+fish fish_6_19 6 19 1000000000
+obstacle obstacle_7_19 7 19
+obstacle obstacle_8_19 8 19
+obstacle obstacle_10_19 10 19
+obstacle obstacle_11_19 11 19
+obstacle obstacle_12_19 12 19
+obstacle obstacle_13_19 13 19
+obstacle obstacle_14_19 14 19
+obstacle obstacle_15_19 15 19
+obstacle obstacle_16_19 16 19
+obstacle obstacle_17_19 17 19
+obstacle obstacle_19_19 19 19
+obstacle obstacle_20_19 20 19
+fish fish_21_19 21 19 1000000000
+obstacle obstacle_22_19 22 19
+obstacle obstacle_23_19 23 19
+obstacle obstacle_24_19 24 19
+obstacle obstacle_25_19 25 19
+obstacle obstacle_26_19 26 19
+obstacle obstacle_5_18 5 18
+fish fish_6_18 6 18 1000000000
+obstacle obstacle_7_18 7 18
+obstacle obstacle_8_18 8 18
+obstacle obstacle_10_18 10 18
+obstacle obstacle_11_18 11 18
+obstacle obstacle_12_18 12 18
+obstacle obstacle_13_18 13 18
+obstacle obstacle_14_18 14 18
+obstacle obstacle_15_18 15 18
+obstacle obstacle_16_18 16 18
+obstacle obstacle_17_18 17 18
+obstacle obstacle_19_18 19 18
+obstacle obstacle_20_18 20 18
+fish fish_21_18 21 18 1000000000
+obstacle obstacle_22_18 22 18
+obstacle obstacle_5_17 5 17
+fish fish_6_17 6 17 1000000000
+obstacle obstacle_7_17 7 17
+obstacle obstacle_8_17 8 17
+obstacle obstacle_19_17 19 17
+obstacle obstacle_20_17 20 17
+fish fish_21_17 21 17 1000000000
+obstacle obstacle_22_17 22 17
+obstacle obstacle_1_16 1 16
+obstacle obstacle_2_16 2 16
+obstacle obstacle_3_16 3 16
+obstacle obstacle_4_16 4 16
+obstacle obstacle_5_16 5 16
+fish fish_6_16 6 16 1000000000
+obstacle obstacle_7_16 7 16
+obstacle obstacle_8_16 8 16
+obstacle obstacle_10_16 10 16
+obstacle obstacle_11_16 11 16
+obstacle obstacle_12_16 12 16
+obstacle obstacle_13_16 13 16
+obstacle obstacle_14_16 14 16
+obstacle obstacle_15_16 15 16
+obstacle obstacle_16_16 16 16
+obstacle obstacle_17_16 17 16
+obstacle obstacle_19_16 19 16
+obstacle obstacle_20_16 20 16
+fish fish_21_16 21 16 1000000000
+obstacle obstacle_22_16 22 16
+obstacle obstacle_23_16 23 16
+obstacle obstacle_24_16 24 16
+obstacle obstacle_25_16 25 16
+obstacle obstacle_26_16 26 16
+fish fish_6_15 6 15 1000000000
+obstacle obstacle_10_15 10 15
+obstacle obstacle_17_15 17 15
+fish fish_21_15 21 15 1000000000
+obstacle obstacle_1_14 1 14
+obstacle obstacle_2_14 2 14
+obstacle obstacle_3_14 3 14
+obstacle obstacle_4_14 4 14
+obstacle obstacle_5_14 5 14
+fish fish_6_14 6 14 1000000000
+obstacle obstacle_7_14 7 14
+obstacle obstacle_8_14 8 14
+obstacle obstacle_10_14 10 14
+obstacle gate1 11 14
+obstacle obstacle_12_14 12 14
+obstacle gate2 13 14
+obstacle obstacle_14_14 14 14
+obstacle obstacle_15_14 15 14
+obstacle gate3 16 14
+obstacle obstacle_17_14 17 14
+obstacle obstacle_19_14 19 14
+obstacle obstacle_20_14 20 14
+fish fish_21_14 21 14 1000000000
+obstacle obstacle_22_14 22 14
+obstacle obstacle_23_14 23 14
+obstacle obstacle_24_14 24 14
+obstacle obstacle_25_14 25 14
+obstacle obstacle_26_14 26 14
+obstacle obstacle_5_13 5 13
+fish fish_6_13 6 13 1000000000
+obstacle obstacle_7_13 7 13
+obstacle obstacle_8_13 8 13
+obstacle obstacle_19_13 19 13
+obstacle obstacle_20_13 20 13
+fish fish_21_13 21 13 1000000000
+obstacle obstacle_22_13 22 13
+obstacle obstacle_5_12 5 12
+fish fish_6_12 6 12 1000000000
+obstacle obstacle_7_12 7 12
+obstacle obstacle_8_12 8 12
+obstacle obstacle_9_12 9 12
+obstacle obstacle_10_12 10 12
+obstacle obstacle_11_12 11 12
+obstacle obstacle_13_12 13 12
+obstacle obstacle_14_12 14 12
+obstacle obstacle_16_12 16 12
+obstacle obstacle_17_12 17 12
+obstacle obstacle_18_12 18 12
+obstacle obstacle_19_12 19 12
+obstacle obstacle_20_12 20 12
+fish fish_21_12 21 12 1000000000
+obstacle obstacle_22_12 22 12
+obstacle obstacle_1_11 1 11
+obstacle obstacle_2_11 2 11
+obstacle obstacle_3_11 3 11
+obstacle obstacle_4_11 4 11
+obstacle obstacle_5_11 5 11
+fish fish_6_11 6 11 1000000000
+obstacle obstacle_7_11 7 11
+obstacle obstacle_8_11 8 11
+obstacle obstacle_9_11 9 11
+obstacle obstacle_10_11 10 11
+obstacle obstacle_11_11 11 11
+obstacle obstacle_13_11 13 11
+obstacle obstacle_14_11 14 11
+obstacle obstacle_16_11 16 11
+obstacle obstacle_17_11 17 11
+obstacle obstacle_18_11 18 11
+obstacle obstacle_19_11 19 11
+obstacle obstacle_20_11 20 11
+fish fish_21_11 21 11 1000000000
+obstacle obstacle_22_11 22 11
+obstacle obstacle_23_11 23 11
+obstacle obstacle_24_11 24 11
+obstacle obstacle_25_11 25 11
+obstacle obstacle_26_11 26 11
+fish fish_1_10 1 10 1000000000
+fish fish_2_10 2 10 1000000000
+fish fish_3_10 3 10 1000000000
+fish fish_4_10 4 10 1000000000
+fish fish_5_10 5 10 1000000000
+fish fish_6_10 6 10 1000000000
+obstacle obstacle_7_10 7 10
+obstacle obstacle_8_10 8 10
+fish fish_9_10 9 10 1000000000
+fish fish_10_10 10 10 1000000000
+fish fish_11_10 11 10 1000000000
+fish fish_12_10 12 10 1000000000
+obstacle obstacle_13_10 13 10
+obstacle obstacle_14_10 14 10
+fish fish_15_10 15 10 1000000000
+fish fish_16_10 16 10 1000000000
+fish fish_17_10 17 10 1000000000
+fish fish_18_10 18 10 1000000000
+obstacle obstacle_19_10 19 10
+obstacle obstacle_20_10 20 10
+fish fish_21_10 21 10 1000000000
+fish fish_22_10 22 10 1000000000
+fish fish_23_10 23 10 1000000000
+fish fish_24_10 24 10 1000000000
+fish fish_25_10 25 10 1000000000
+fish fish_26_10 26 10 1000000000
+fish fish_1_9 1 9 1000000000
+obstacle obstacle_2_9 2 9
+obstacle obstacle_3_9 3 9
+obstacle obstacle_4_9 4 9
+obstacle obstacle_5_9 5 9
+fish fish_6_9 6 9 1000000000
+obstacle obstacle_7_9 7 9
+obstacle obstacle_8_9 8 9
+fish fish_9_9 9 9 1000000000
+obstacle obstacle_10_9 10 9
+obstacle obstacle_11_9 11 9
+obstacle obstacle_12_9 12 9
+obstacle obstacle_13_9 13 9
+obstacle obstacle_14_9 14 9
+obstacle obstacle_15_9 15 9
+obstacle obstacle_16_9 16 9
+obstacle obstacle_17_9 17 9
+fish fish_18_9 18 9 1000000000
+obstacle obstacle_19_9 19 9
+obstacle obstacle_20_9 20 9
+fish fish_21_9 21 9 1000000000
+obstacle obstacle_22_9 22 9
+obstacle obstacle_23_9 23 9
+obstacle obstacle_24_9 24 9
+obstacle obstacle_25_9 25 9
+fish fish_26_9 26 9 1000000000
+fish fish_1_8 1 8 1000000000
+obstacle obstacle_2_8 2 8
+obstacle obstacle_3_8 3 8
+obstacle obstacle_4_8 4 8
+obstacle obstacle_5_8 5 8
+fish fish_6_8 6 8 1000000000
+obstacle obstacle_7_8 7 8
+obstacle obstacle_8_8 8 8
+fish fish_9_8 9 8 1000000000
+obstacle obstacle_10_8 10 8
+obstacle obstacle_11_8 11 8
+obstacle obstacle_12_8 12 8
+obstacle obstacle_13_8 13 8
+obstacle obstacle_14_8 14 8
+obstacle obstacle_15_8 15 8
+obstacle obstacle_16_8 16 8
+obstacle obstacle_17_8 17 8
+fish fish_18_8 18 8 1000000000
+obstacle obstacle_19_8 19 8
+obstacle obstacle_20_8 20 8
+fish fish_21_8 21 8 1000000000
+obstacle obstacle_22_8 22 8
+obstacle obstacle_23_8 23 8
+obstacle obstacle_24_8 24 8
+obstacle obstacle_25_8 25 8
+fish fish_26_8 26 8 1000000000
+fish fish_1_7 1 7 1000000000
+fish fish_2_7 2 7 1000000000
+fish fish_3_7 3 7 1000000000
+fish fish_4_7 4 7 1000000000
+fish fish_5_7 5 7 1000000000
+fish fish_6_7 6 7 1000000000
+fish fish_7_7 7 7 1000000000
+fish fish_8_7 8 7 1000000000
+fish fish_9_7 9 7 1000000000
+fish fish_10_7 10 7 1000000000
+fish fish_11_7 11 7 1000000000
+fish fish_12_7 12 7 1000000000
+fish fish_13_7 13 7 1000000000
+fish fish_14_7 14 7 1000000000
+fish fish_15_7 15 7 1000000000
+fish fish_16_7 16 7 1000000000
+fish fish_17_7 17 7 1000000000
+fish fish_18_7 18 7 1000000000
+fish fish_19_7 19 7 1000000000
+fish fish_20_7 20 7 1000000000
+fish fish_21_7 21 7 1000000000
+fish fish_22_7 22 7 1000000000
+fish fish_23_7 23 7 1000000000
+fish fish_24_7 24 7 1000000000
+fish fish_25_7 25 7 1000000000
+fish fish_26_7 26 7 1000000000
+fish fish_1_6 1 6 1000000000
+obstacle obstacle_2_6 2 6
+obstacle obstacle_3_6 3 6
+obstacle obstacle_4_6 4 6
+obstacle obstacle_5_6 5 6
+fish fish_6_6 6 6 1000000000
+obstacle obstacle_7_6 7 6
+obstacle obstacle_8_6 8 6
+obstacle obstacle_9_6 9 6
+obstacle obstacle_10_6 10 6
+obstacle obstacle_11_6 11 6
+fish fish_12_6 12 6 1000000000
+obstacle obstacle_13_6 13 6
+obstacle obstacle_14_6 14 6
+fish fish_15_6 15 6 1000000000
+obstacle obstacle_16_6 16 6
+obstacle obstacle_17_6 17 6
+obstacle obstacle_18_6 18 6
+obstacle obstacle_19_6 19 6
+obstacle obstacle_20_6 20 6
+fish fish_21_6 21 6 1000000000
+obstacle obstacle_22_6 22 6
+obstacle obstacle_23_6 23 6
+obstacle obstacle_24_6 24 6
+obstacle obstacle_25_6 25 6
+fish fish_26_6 26 6 1000000000
+fish fish_1_5 1 5 1000000000
+obstacle obstacle_2_5 2 5
+obstacle obstacle_3_5 3 5
+obstacle obstacle_4_5 4 5
+obstacle obstacle_5_5 5 5
+fish fish_6_5 6 5 1000000000
+obstacle obstacle_7_5 7 5
+obstacle obstacle_8_5 8 5
+obstacle obstacle_9_5 9 5
+obstacle obstacle_10_5 10 5
+obstacle obstacle_11_5 11 5
+fish fish_12_5 12 5 1000000000
+obstacle obstacle_13_5 13 5
+obstacle obstacle_14_5 14 5
+fish fish_15_5 15 5 1000000000
+obstacle obstacle_16_5 16 5
+obstacle obstacle_17_5 17 5
+obstacle obstacle_18_5 18 5
+obstacle obstacle_19_5 19 5
+obstacle obstacle_20_5 20 5
+fish fish_21_5 21 5 1000000000
+obstacle obstacle_22_5 22 5
+obstacle obstacle_23_5 23 5
+obstacle obstacle_24_5 24 5
+obstacle obstacle_25_5 25 5
+fish fish_26_5 26 5 1000000000
+fish fish_1_4 1 4 1000000000
+obstacle obstacle_2_4 2 4
+obstacle obstacle_3_4 3 4
+obstacle obstacle_4_4 4 4
+obstacle obstacle_5_4 5 4
+fish fish_6_4 6 4 1000000000
+obstacle obstacle_7_4 7 4
+obstacle obstacle_8_4 8 4
+obstacle obstacle_9_4 9 4
+obstacle obstacle_10_4 10 4
+obstacle obstacle_11_4 11 4
+fish fish_12_4 12 4 1000000000
+obstacle obstacle_13_4 13 4
+obstacle obstacle_14_4 14 4
+fish fish_15_4 15 4 1000000000
+obstacle obstacle_16_4 16 4
+obstacle obstacle_17_4 17 4
+obstacle obstacle_18_4 18 4
+obstacle obstacle_19_4 19 4
+obstacle obstacle_20_4 20 4
+fish fish_21_4 21 4 1000000000
+obstacle obstacle_22_4 22 4
+obstacle obstacle_23_4 23 4
+obstacle obstacle_24_4 24 4
+obstacle obstacle_25_4 25 4
+fish fish_26_4 26 4 1000000000
+fish fish_1_3 1 3 1000000000
+fish fish_2_3 2 3 1000000000
+fish fish_3_3 3 3 1000000000
+fish fish_4_3 4 3 1000000000
+fish fish_5_3 5 3 1000000000
+fish fish_6_3 6 3 1000000000
+fish fish_7_3 7 3 1000000000
+fish fish_8_3 8 3 1000000000
+fish fish_9_3 9 3 1000000000
+fish fish_10_3 10 3 1000000000
+fish fish_11_3 11 3 1000000000
+fish fish_12_3 12 3 1000000000
+obstacle obstacle_13_3 13 3
+obstacle obstacle_14_3 14 3
+fish fish_15_3 15 3 1000000000
+fish fish_16_3 16 3 1000000000
+fish fish_17_3 17 3 1000000000
+fish fish_18_3 18 3 1000000000
+fish fish_19_3 19 3 1000000000
+fish fish_20_3 20 3 1000000000
+fish fish_21_3 21 3 1000000000
+fish fish_22_3 22 3 1000000000
+fish fish_23_3 23 3 1000000000
+fish fish_24_3 24 3 1000000000
+fish fish_25_3 25 3 1000000000
+fish fish_26_3 26 3 1000000000
+obstacle obstacle_1_2 1 2
+obstacle obstacle_2_2 2 2
+obstacle obstacle_3_2 3 2
+obstacle obstacle_4_2 4 2
+obstacle obstacle_5_2 5 2
+obstacle obstacle_6_2 6 2
+obstacle obstacle_7_2 7 2
+obstacle obstacle_8_2 8 2
+obstacle obstacle_9_2 9 2
+obstacle obstacle_10_2 10 2
+obstacle obstacle_11_2 11 2
+obstacle obstacle_12_2 12 2
+obstacle obstacle_13_2 13 2
+obstacle obstacle_14_2 14 2
+obstacle obstacle_15_2 15 2
+obstacle obstacle_16_2 16 2
+obstacle obstacle_17_2 17 2
+obstacle obstacle_18_2 18 2
+obstacle obstacle_19_2 19 2
+obstacle obstacle_20_2 20 2
+obstacle obstacle_21_2 21 2
+obstacle obstacle_22_2 22 2
+obstacle obstacle_23_2 23 2
+obstacle obstacle_24_2 24 2
+obstacle obstacle_25_2 25 2
+obstacle obstacle_26_2 26 2
+obstacle obstacle_1_1 1 1
+obstacle obstacle_2_1 2 1
+obstacle obstacle_3_1 3 1
+obstacle obstacle_4_1 4 1
+obstacle obstacle_5_1 5 1
+obstacle obstacle_6_1 6 1
+obstacle obstacle_7_1 7 1
+obstacle obstacle_8_1 8 1
+obstacle obstacle_9_1 9 1
+obstacle obstacle_10_1 10 1
+obstacle obstacle_11_1 11 1
+obstacle obstacle_12_1 12 1
+obstacle obstacle_13_1 13 1
+obstacle obstacle_14_1 14 1
+obstacle obstacle_15_1 15 1
+obstacle obstacle_16_1 16 1
+obstacle obstacle_17_1 17 1
+obstacle obstacle_18_1 18 1
+obstacle obstacle_19_1 19 1
+obstacle obstacle_20_1 20 1
+obstacle obstacle_21_1 21 1
+obstacle obstacle_22_1 22 1
+obstacle obstacle_23_1 23 1
+obstacle obstacle_24_1 24 1
+obstacle obstacle_25_1 25 1
+obstacle obstacle_26_1 26 1
+octo ghost4 15 15 1000 100 100
+octo ghost3 13 15 1000 100 100
+obstacle obstacle_14_15 14 15
+octo ghost2 11 15 1000 100 100
+obstacle obstacle_12_15 12 15
+octo ghost1 14 13 1000 100 100
+background sea 0 0
+background sea 1 0
+background sea 2 0
+background sea 3 0
+background sea 4 0
+background sea 5 0
+background sea 6 0
+background sea 7 0
+background sea 8 0
+background sea 9 0
+background sea 10 0
+background sea 11 0
+background sea 12 0
+background sea 13 0
+background sea 14 0
+background sea 15 0
+background sea 16 0
+background sea 17 0
+background sea 18 0
+background sea 20 0
+background sea 21 0
+background sea 22 0
+background sea 23 0
+background sea 24 0
+background sea 25 0
+background sea 26 0
+background sea 27 0
+background sea 28 0
+background sea 29 0
+background sea 30 0
+background sea 31 0
+background sea 32 0
+background sea 33 0
+background sea 34 0
+background sea 35 0
+background sea 36 0
+background sea 37 0
+background sea 38 0
+background sea 39 0
+background sea 0 1
+background sea 1 1
+background sea 2 1
+background sea 3 1
+background sea 4 1
+background sea 5 1
+background sea 6 1
+background sea 7 1
+background sea 8 1
+background sea 9 1
+background sea 10 1
+background sea 11 1
+background sea 12 1
+background sea 13 1
+background sea 14 1
+background sea 15 1
+background sea 16 1
+background sea 17 1
+background sea 18 1
+background sea 19 1
+background sea 21 1
+background sea 22 1
+background sea 23 1
+background sea 24 1
+background sea 25 1
+background sea 26 1
+background sea 27 1
+background sea 28 1
+background sea 29 1
+background sea 30 1
+background sea 31 1
+background sea 32 1
+background sea 33 1
+background sea 34 1
+background sea 35 1
+background sea 36 1
+background sea 37 1
+background sea 38 1
+background sea 0 2
+background sea 3 2
+background sea 4 2
+background sea 5 2
+background sea 8 2
+background sea 9 2
+background sea 10 2
+background sea 13 2
+background sea 14 2
+background sea 15 2
+background sea 16 2
+background sea 17 2
+background sea 18 2
+background sea 19 2
+background sea 20 2
+background sea 21 2
+background sea 22 2
+background sea 23 2
+background sea 24 2
+background sea 25 2
+background sea 26 2
+background sea 27 2
+background sea 28 2
+background sea 29 2
+background sea 30 2
+background sea 31 2
+background sea 32 2
+background sea 33 2
+background sea 34 2
+background sea 35 2
+background sea 36 2
+background sea 37 2
+background sea 38 2
+background sea 39 2
+background sea 1 3
+background sea 2 3
+background sea 4 3
+background sea 6 3
+background sea 7 3
+background sea 9 3
+background sea 11 3
+background sea 12 3
+background sea 14 3
+background sea 15 3
+background sea 16 3
+background sea 17 3
+background sea 18 3
+background sea 19 3
+background sea 20 3
+background sea 21 3
+background sea 22 3
+background sea 23 3
+background sea 24 3
+background sea 25 3
+background sea 26 3
+background sea 27 3
+background sea 28 3
+background sea 29 3
+background sea 30 3
+background sea 31 3
+background sea 32 3
+background sea 33 3
+background sea 34 3
+background sea 35 3
+background sea 36 3
+background sea 37 3
+background sea 38 3
+background sea 39 3
+background sea 0 4
+background sea 1 4
+background sea 2 4
+background sea 4 4
+background sea 6 4
+background sea 7 4
+background sea 9 4
+background sea 10 4
+background sea 11 4
+background sea 12 4
+background sea 14 4
+background sea 15 4
+background sea 16 4
+background sea 17 4
+background sea 18 4
+background sea 19 4
+background sea 20 4
+background sea 21 4
+background sea 22 4
+background sea 23 4
+background sea 24 4
+background sea 25 4
+background sea 26 4
+background sea 27 4
+background sea 28 4
+background sea 29 4
+background sea 30 4
+background sea 31 4
+background sea 32 4
+background sea 33 4
+background sea 34 4
+background sea 35 4
+background sea 36 4
+background sea 37 4
+background sea 38 4
+background sea 39 4
+background sea 0 5
+background sea 3 5
+background sea 4 5
+background sea 6 5
+background sea 7 5
+background sea 9 5
+background sea 10 5
+background sea 13 5
+background sea 14 5
+background sea 15 5
+background sea 16 5
+background sea 17 5
+background sea 18 5
+background sea 19 5
+background sea 20 5
+background sea 21 5
+background sea 22 5
+background sea 23 5
+background sea 24 5
+background sea 25 5
+background sea 26 5
+background sea 27 5
+background sea 28 5
+background sea 29 5
+background sea 30 5
+background sea 31 5
+background sea 32 5
+background sea 33 5
+background sea 34 5
+background sea 35 5
+background sea 36 5
+background sea 37 5
+background sea 38 5
+background sea 39 5
+background sea 1 6
+background sea 2 6
+background sea 3 6
+background sea 4 6
+background sea 6 6
+background sea 7 6
+background sea 9 6
+background sea 10 6
+background sea 11 6
+background sea 12 6
+background sea 14 6
+background sea 15 6
+background sea 16 6
+background sea 17 6
+background sea 18 6
+background sea 19 6
+background sea 20 6
+background sea 21 6
+background sea 22 6
+background sea 23 6
+background sea 24 6
+background sea 25 6
+background sea 26 6
+background sea 27 6
+background sea 28 6
+background sea 29 6
+background sea 30 6
+background sea 31 6
+background sea 32 6
+background sea 33 6
+background sea 34 6
+background sea 35 6
+background sea 36 6
+background sea 37 6
+background sea 38 6
+background sea 39 6
+background sea 1 7
+background sea 2 7
+background sea 3 7
+background sea 4 7
+background sea 6 7
+background sea 7 7
+background sea 9 7
+background sea 11 7
+background sea 12 7
+background sea 14 7
+background sea 15 7
+background sea 16 7
+background sea 17 7
+background sea 18 7
+background sea 19 7
+background sea 20 7
+background sea 21 7
+background sea 22 7
+background sea 23 7
+background sea 24 7
+background sea 25 7
+background sea 26 7
+background sea 27 7
+background sea 28 7
+background sea 29 7
+background sea 30 7
+background sea 31 7
+background sea 32 7
+background sea 33 7
+background sea 34 7
+background sea 35 7
+background sea 36 7
+background sea 37 7
+background sea 38 7
+background sea 39 7
+background sea 4 8
+background sea 5 8
+background sea 8 8
+background sea 9 8
+background sea 10 8
+background sea 13 8
+background sea 14 8
+background sea 15 8
+background sea 16 8
+background sea 17 8
+background sea 18 8
+background sea 19 8
+background sea 20 8
+background sea 21 8
+background sea 22 8
+background sea 23 8
+background sea 24 8
+background sea 25 8
+background sea 26 8
+background sea 27 8
+background sea 28 8
+background sea 29 8
+background sea 30 8
+background sea 31 8
+background sea 32 8
+background sea 33 8
+background sea 34 8
+background sea 35 8
+background sea 36 8
+background sea 37 8
+background sea 38 8
+background sea 39 8
+background sea 0 9
+background sea 1 9
+background sea 2 9
+background sea 3 9
+background sea 4 9
+background sea 5 9
+background sea 6 9
+background sea 7 9
+background sea 8 9
+background sea 9 9
+background sea 10 9
+background sea 11 9
+background sea 12 9
+background sea 13 9
+background sea 14 9
+background sea 15 9
+background sea 16 9
+background sea 17 9
+background sea 18 9
+background sea 19 9
+background sea 20 9
+background sea 21 9
+background sea 22 9
+background sea 23 9
+background sea 24 9
+background sea 25 9
+background sea 26 9
+background sea 27 9
+background sea 28 9
+background sea 29 9
+background sea 30 9
+background sea 31 9
+background sea 32 9
+background sea 33 9
+background sea 34 9
+background sea 35 9
+background sea 36 9
+background sea 37 9
+background sea 38 9
+background sea 39 9
+background sea 0 10
+background sea 1 10
+background sea 2 10
+background sea 3 10
+background sea 4 10
+background sea 5 10
+background sea 6 10
+background sea 7 10
+background sea 8 10
+background sea 9 10
+background sea 10 10
+background sea 11 10
+background sea 12 10
+background sea 13 10
+background sea 14 10
+background sea 15 10
+background sea 16 10
+background sea 17 10
+background sea 18 10
+background sea 19 10
+background sea 20 10
+background sea 21 10
+background sea 22 10
+background sea 23 10
+background sea 24 10
+background sea 25 10
+background sea 26 10
+background sea 27 10
+background sea 28 10
+background sea 29 10
+background sea 30 10
+background sea 31 10
+background sea 32 10
+background sea 33 10
+background sea 34 10
+background sea 35 10
+background sea 36 10
+background sea 37 10
+background sea 38 10
+background sea 39 10
+background sea 0 11
+background sea 1 11
+background sea 2 11
+background sea 3 11
+background sea 4 11
+background sea 5 11
+background sea 6 11
+background sea 7 11
+background sea 8 11
+background sea 9 11
+background sea 10 11
+background sea 11 11
+background sea 12 11
+background sea 13 11
+background sea 14 11
+background sea 15 11
+background sea 16 11
+background sea 17 11
+background sea 18 11
+background sea 19 11
+background sea 20 11
+background sea 21 11
+background sea 22 11
+background sea 23 11
+background sea 24 11
+background sea 25 11
+background sea 26 11
+background sea 27 11
+background sea 28 11
+background sea 29 11
+background sea 30 11
+background sea 31 11
+background sea 32 11
+background sea 33 11
+background sea 34 11
+background sea 35 11
+background sea 36 11
+background sea 37 11
+background sea 38 11
+background sea 39 11
+background sea 0 12
+background sea 1 12
+background sea 2 12
+background sea 3 12
+background sea 4 12
+background sea 5 12
+background sea 6 12
+background sea 7 12
+background sea 8 12
+background sea 9 12
+background sea 10 12
+background sea 11 12
+background sea 12 12
+background sea 13 12
+background sea 14 12
+background sea 15 12
+background sea 16 12
+background sea 17 12
+background sea 18 12
+background sea 19 12
+background sea 20 12
+background sea 21 12
+background sea 22 12
+background sea 23 12
+background sea 24 12
+background sea 25 12
+background sea 26 12
+background sea 27 12
+background sea 28 12
+background sea 29 12
+background sea 30 12
+background sea 31 12
+background sea 32 12
+background sea 33 12
+background sea 34 12
+background sea 35 12
+background sea 36 12
+background sea 37 12
+background sea 38 12
+background sea 39 12
+background sea 0 13
+background sea 1 13
+background sea 2 13
+background sea 3 13
+background sea 4 13
+background sea 5 13
+background sea 6 13
+background sea 7 13
+background sea 8 13
+background sea 9 13
+background sea 10 13
+background sea 11 13
+background sea 12 13
+background sea 13 13
+background sea 14 13
+background sea 15 13
+background sea 16 13
+background sea 17 13
+background sea 18 13
+background sea 19 13
+background sea 21 13
+background sea 22 13
+background sea 23 13
+background sea 24 13
+background sea 25 13
+background sea 26 13
+background sea 27 13
+background sea 28 13
+background sea 29 13
+background sea 30 13
+background sea 31 13
+background sea 32 13
+background sea 33 13
+background sea 34 13
+background sea 35 13
+background sea 36 13
+background sea 37 13
+background sea 38 13
+background sea 0 14
+background sea 1 14
+background sea 2 14
+background sea 3 14
+background sea 4 14
+background sea 5 14
+background sea 6 14
+background sea 7 14
+background sea 8 14
+background sea 9 14
+background sea 10 14
+background sea 11 14
+background sea 12 14
+background sea 13 14
+background sea 14 14
+background sea 15 14
+background sea 16 14
+background sea 17 14
+background sea 18 14
+background sea 20 14
+background sea 21 14
+background sea 22 14
+background sea 23 14
+background sea 24 14
+background sea 25 14
+background sea 26 14
+background sea 27 14
+background sea 28 14
+background sea 29 14
+background sea 30 14
+background sea 31 14
+background sea 32 14
+background sea 33 14
+background sea 34 14
+background sea 35 14
+background sea 36 14
+background sea 37 14
+background sea 38 14
+background sea 39 14
+background sea 0 15
+background sea 1 15
+background sea 2 15
+background sea 3 15
+background sea 4 15
+background sea 5 15
+background sea 6 15
+background sea 7 15
+background sea 8 15
+background sea 9 15
+background sea 10 15
+background sea 11 15
+background sea 12 15
+background sea 13 15
+background sea 14 15
+background sea 15 15
+background sea 16 15
+background sea 17 15
+background sea 18 15
+background sea 19 15
+background sea 21 15
+background sea 22 15
+background sea 23 15
+background sea 24 15
+background sea 25 15
+background sea 26 15
+background sea 27 15
+background sea 28 15
+background sea 29 15
+background sea 30 15
+background sea 31 15
+background sea 32 15
+background sea 33 15
+background sea 34 15
+background sea 35 15
+background sea 36 15
+background sea 37 15
+background sea 38 15
+background sea 0 16
+background sea 1 16
+background sea 2 16
+background sea 3 16
+background sea 4 16
+background sea 5 16
+background sea 6 16
+background sea 7 16
+background sea 8 16
+background sea 9 16
+background sea 10 16
+background sea 11 16
+background sea 12 16
+background sea 13 16
+background sea 14 16
+background sea 15 16
+background sea 16 16
+background sea 17 16
+background sea 18 16
+background sea 20 16
+background sea 21 16
+background sea 22 16
+background sea 23 16
+background sea 24 16
+background sea 25 16
+background sea 26 16
+background sea 27 16
+background sea 28 16
+background sea 29 16
+background sea 30 16
+background sea 31 16
+background sea 32 16
+background sea 33 16
+background sea 34 16
+background sea 35 16
+background sea 36 16
+background sea 37 16
+background sea 38 16
+background sea 39 16
+background sea 0 17
+background sea 1 17
+background sea 2 17
+background sea 3 17
+background sea 4 17
+background sea 5 17
+background sea 6 17
+background sea 7 17
+background sea 8 17
+background sea 9 17
+background sea 10 17
+background sea 11 17
+background sea 12 17
+background sea 13 17
+background sea 14 17
+background sea 15 17
+background sea 16 17
+background sea 17 17
+background sea 18 17
+background sea 19 17
+background sea 20 17
+background sea 21 17
+background sea 22 17
+background sea 23 17
+background sea 24 17
+background sea 25 17
+background sea 26 17
+background sea 27 17
+background sea 28 17
+background sea 29 17
+background sea 30 17
+background sea 31 17
+background sea 32 17
+background sea 33 17
+background sea 34 17
+background sea 35 17
+background sea 36 17
+background sea 37 17
+background sea 38 17
+background sea 39 17
+background sea 0 18
+background sea 1 18
+background sea 2 18
+background sea 3 18
+background sea 4 18
+background sea 5 18
+background sea 6 18
+background sea 7 18
+background sea 8 18
+background sea 9 18
+background sea 10 18
+background sea 11 18
+background sea 12 18
+background sea 13 18
+background sea 14 18
+background sea 15 18
+background sea 16 18
+background sea 17 18
+background sea 18 18
+background sea 19 18
+background sea 20 18
+background sea 21 18
+background sea 22 18
+background sea 23 18
+background sea 24 18
+background sea 25 18
+background sea 26 18
+background sea 27 18
+background sea 28 18
+background sea 29 18
+background sea 30 18
+background sea 31 18
+background sea 32 18
+background sea 33 18
+background sea 34 18
+background sea 35 18
+background sea 36 18
+background sea 37 18
+background sea 38 18
+background sea 39 18
+background sea 0 19
+background sea 1 19
+background sea 2 19
+background sea 3 19
+background sea 4 19
+background sea 5 19
+background sea 6 19
+background sea 7 19
+background sea 8 19
+background sea 9 19
+background sea 10 19
+background sea 11 19
+background sea 12 19
+background sea 13 19
+background sea 14 19
+background sea 15 19
+background sea 16 19
+background sea 17 19
+background sea 18 19
+background sea 19 19
+background sea 20 19
+background sea 21 19
+background sea 22 19
+background sea 23 19
+background sea 24 19
+background sea 25 19
+background sea 26 19
+background sea 27 19
+background sea 28 19
+background sea 29 19
+background sea 30 19
+background sea 31 19
+background sea 32 19
+background sea 33 19
+background sea 34 19
+background sea 35 19
+background sea 36 19
+background sea 37 19
+background sea 38 19
+background sea 39 19
+background sea 0 20
+background sea 1 20
+background sea 2 20
+background sea 3 20
+background sea 4 20
+background sea 5 20
+background sea 6 20
+background sea 7 20
+background sea 8 20
+background sea 9 20
+background sea 10 20
+background sea 11 20
+background sea 12 20
+background sea 13 20
+background sea 14 20
+background sea 15 20
+background sea 16 20
+background sea 17 20
+background sea 18 20
+background sea 19 20
+background sea 20 20
+background sea 21 20
+background sea 22 20
+background sea 23 20
+background sea 24 20
+background sea 25 20
+background sea 26 20
+background sea 27 20
+background sea 28 20
+background sea 29 20
+background sea 30 20
+background sea 31 20
+background sea 32 20
+background sea 33 20
+background sea 34 20
+background sea 35 20
+background sea 36 20
+background sea 37 20
+background sea 38 20
+background sea 39 20
+background sea 0 21
+background sea 1 21
+background sea 2 21
+background sea 3 21
+background sea 4 21
+background sea 5 21
+background sea 6 21
+background sea 7 21
+background sea 8 21
+background sea 9 21
+background sea 10 21
+background sea 11 21
+background sea 12 21
+background sea 13 21
+background sea 14 21
+background sea 15 21
+background sea 16 21
+background sea 17 21
+background sea 18 21
+background sea 19 21
+background sea 20 21
+background sea 21 21
+background sea 22 21
+background sea 23 21
+background sea 24 21
+background sea 25 21
+background sea 26 21
+background sea 27 21
+background sea 28 21
+background sea 29 21
+background sea 30 21
+background sea 31 21
+background sea 32 21
+background sea 33 21
+background sea 34 21
+background sea 35 21
+background sea 36 21
+background sea 37 21
+background sea 38 21
+background sea 39 21
+background sea 0 22
+background sea 1 22
+background sea 2 22
+background sea 3 22
+background sea 4 22
+background sea 5 22
+background sea 6 22
+background sea 7 22
+background sea 8 22
+background sea 9 22
+background sea 10 22
+background sea 11 22
+background sea 12 22
+background sea 13 22
+background sea 14 22
+background sea 15 22
+background sea 16 22
+background sea 17 22
+background sea 18 22
+background sea 19 22
+background sea 20 22
+background sea 21 22
+background sea 22 22
+background sea 23 22
+background sea 24 22
+background sea 25 22
+background sea 26 22
+background sea 27 22
+background sea 28 22
+background sea 29 22
+background sea 30 22
+background sea 31 22
+background sea 32 22
+background sea 33 22
+background sea 34 22
+background sea 35 22
+background sea 36 22
+background sea 37 22
+background sea 38 22
+background sea 39 22
+background sea 0 23
+background sea 1 23
+background sea 2 23
+background sea 3 23
+background sea 4 23
+background sea 5 23
+background sea 6 23
+background sea 7 23
+background sea 8 23
+background sea 9 23
+background sea 10 23
+background sea 11 23
+background sea 12 23
+background sea 13 23
+background sea 14 23
+background sea 15 23
+background sea 16 23
+background sea 17 23
+background sea 18 23
+background sea 19 23
+background sea 20 23
+background sea 21 23
+background sea 22 23
+background sea 23 23
+background sea 24 23
+background sea 25 23
+background sea 26 23
+background sea 27 23
+background sea 28 23
+background sea 29 23
+background sea 30 23
+background sea 31 23
+background sea 32 23
+background sea 33 23
+background sea 34 23
+background sea 35 23
+background sea 36 23
+background sea 37 23
+background sea 38 23
+background sea 39 23
+background sea 0 24
+background sea 1 24
+background sea 2 24
+background sea 3 24
+background sea 4 24
+background sea 5 24
+background sea 6 24
+background sea 7 24
+background sea 8 24
+background sea 9 24
+background sea 10 24
+background sea 11 24
+background sea 12 24
+background sea 13 24
+background sea 14 24
+background sea 15 24
+background sea 16 24
+background sea 17 24
+background sea 18 24
+background sea 19 24
+background sea 20 24
+background sea 21 24
+background sea 22 24
+background sea 23 24
+background sea 24 24
+background sea 25 24
+background sea 26 24
+background sea 27 24
+background sea 28 24
+background sea 29 24
+background sea 30 24
+background sea 31 24
+background sea 32 24
+background sea 33 24
+background sea 34 24
+background sea 35 24
+background sea 36 24
+background sea 37 24
+background sea 38 24
+background sea 39 24
+background sea 0 25
+background sea 1 25
+background sea 2 25
+background sea 3 25
+background sea 4 25
+background sea 5 25
+background sea 6 25
+background sea 7 25
+background sea 8 25
+background sea 9 25
+background sea 10 25
+background sea 11 25
+background sea 12 25
+background sea 13 25
+background sea 14 25
+background sea 15 25
+background sea 16 25
+background sea 17 25
+background sea 18 25
+background sea 19 25
+background sea 20 25
+background sea 21 25
+background sea 22 25
+background sea 23 25
+background sea 24 25
+background sea 25 25
+background sea 26 25
+background sea 27 25
+background sea 28 25
+background sea 29 25
+background sea 30 25
+background sea 31 25
+background sea 32 25
+background sea 33 25
+background sea 34 25
+background sea 35 25
+background sea 36 25
+background sea 37 25
+background sea 38 25
+background sea 39 25
+background sea 0 26
+background sea 1 26
+background sea 2 26
+background sea 3 26
+background sea 4 26
+background sea 5 26
+background sea 6 26
+background sea 7 26
+background sea 8 26
+background sea 9 26
+background sea 10 26
+background sea 11 26
+background sea 12 26
+background sea 13 26
+background sea 14 26
+background sea 15 26
+background sea 16 26
+background sea 17 26
+background sea 18 26
+background sea 19 26
+background sea 20 26
+background sea 21 26
+background sea 22 26
+background sea 23 26
+background sea 24 26
+background sea 25 26
+background sea 26 26
+background sea 27 26
+background sea 28 26
+background sea 29 26
+background sea 30 26
+background sea 31 26
+background sea 32 26
+background sea 33 26
+background sea 34 26
+background sea 35 26
+background sea 36 26
+background sea 37 26
+background sea 38 26
+background sea 39 26
+background sea 0 27
+background sea 1 27
+background sea 2 27
+background sea 3 27
+background sea 4 27
+background sea 5 27
+background sea 6 27
+background sea 7 27
+background sea 8 27
+background sea 9 27
+background sea 10 27
+background sea 11 27
+background sea 12 27
+background sea 13 27
+background sea 14 27
+background sea 15 27
+background sea 16 27
+background sea 17 27
+background sea 18 27
+background sea 19 27
+background sea 20 27
+background sea 21 27
+background sea 22 27
+background sea 23 27
+background sea 24 27
+background sea 25 27
+background sea 26 27
+background sea 27 27
+background sea 28 27
+background sea 29 27
+background sea 30 27
+background sea 31 27
+background sea 32 27
+background sea 33 27
+background sea 34 27
+background sea 35 27
+background sea 36 27
+background sea 37 27
+background sea 38 27
+background sea 39 27
+background sea 0 28
+background sea 1 28
+background sea 2 28
+background sea 3 28
+background sea 4 28
+background sea 5 28
+background sea 6 28
+background sea 7 28
+background sea 8 28
+background sea 9 28
+background sea 10 28
+background sea 11 28
+background sea 12 28
+background sea 13 28
+background sea 14 28
+background sea 15 28
+background sea 16 28
+background sea 17 28
+background sea 18 28
+background sea 20 28
+background sea 21 28
+background sea 22 28
+background sea 23 28
+background sea 24 28
+background sea 25 28
+background sea 26 28
+background sea 27 28
+background sea 28 28
+background sea 29 28
+background sea 30 28
+background sea 31 28
+background sea 32 28
+background sea 33 28
+background sea 34 28
+background sea 35 28
+background sea 36 28
+background sea 37 28
+background sea 38 28
+background sea 39 28
+background sea 0 29
+background sea 1 29
+background sea 2 29
+background sea 3 29
+background sea 4 29
+background sea 5 29
+background sea 6 29
+background sea 7 29
+background sea 8 29
+background sea 9 29
+background sea 10 29
+background sea 11 29
+background sea 12 29
+background sea 13 29
+background sea 14 29
+background sea 15 29
+background sea 16 29
+background sea 17 29
+background sea 18 29
+background sea 19 29
+background sea 21 29
+background sea 22 29
+background sea 23 29
+background sea 24 29
+background sea 25 29
+background sea 26 29
+background sea 27 29
+background sea 28 29
+background sea 29 29
+background sea 30 29
+background sea 31 29
+background sea 32 29
+background sea 33 29
+background sea 34 29
+background sea 35 29
+background sea 36 29
+background sea 37 29
+background sea 38 29
+background sea 39 29
+background sea 0 29
+background sea 1 29
+background sea 2 29
+background sea 3 29
+background sea 4 29
+background sea 5 29
+background sea 6 29
+background sea 7 29
+background sea 8 29
+background sea 9 29
+background sea 10 29
+background sea 11 29
+background sea 12 29
+background sea 13 29
+background sea 14 29
+background sea 15 29
+background sea 16 29
+background sea 17 29
+background sea 18 29
+background sea 19 29
+background sea 20 29
+background sea 21 29
+background sea 22 29
+background sea 23 29
+background sea 24 29
+background sea 25 29
+background sea 26 29
+background sea 27 29
+background sea 19 16
+background sea 19 28
+background sea 20 13
+background sea 19 14
+background sea 20 15
+background sea 20 1
+background sea 19 0
+background sea 0 3
+background sea 0 0
+background sea 0 6
+background sea 0 7
+background sea 0 8
+background sea 1 8
+background sea 2 8
+background sea 3 8
+background sea 1 5
+background sea 2 5
+background sea 3 4
+background sea 3 3
+background sea 1 2
+background sea 2 2
+background sea 6 2
+background sea 7 2
+background sea 5 3
+background sea 5 4
+background sea 5 5
+background sea 5 6
+background sea 7 8
+background sea 6 8
+background sea 8 3
+background sea 8 4
+background sea 8 5
+background sea 8 6
+background sea 5 7
+background sea 8 7
+background sea 10 3
+background sea 10 7
+background sea 11 2
+background sea 11 5
+background sea 11 8
+background sea 12 2
+background sea 12 5
+background sea 12 8
+background sea 13 3
+background sea 13 4
+background sea 13 6
+background sea 13 7

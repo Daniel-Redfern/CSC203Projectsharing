@@ -1,0 +1,6 @@
+sea images/background.bmp
+octo images/ghost.bmp 255 255 255 0
+obstacle images/border.bmp
+fish images/dot.bmp 255 255 255 0
+quake images/pacman.bmp 255 255 255 0
+background_default images/background.bmp 255 255 255 0
